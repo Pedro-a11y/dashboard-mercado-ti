@@ -48,4 +48,4 @@ Transformar os dados do Stack Overflow Developer Survey 2024 em uma aplicação 
 ## Autor
 
 - LinkedIn: https://www.linkedin.com/in/pedroxz/
-- GitHub: https://github.com/Pedro-a11y"# dashboard-mercado-ti" 
+- GitHub: [https://github.com/Pedro-a11y"# dashboard-mercado-ti" ](https://github.com/Pedro-a11y/dashboard-mercado-ti)
